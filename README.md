@@ -6,3 +6,4 @@ A Generative Adversarial Network (GAN) implementation for synthesizing high-qual
   - Customizable Generator/Discriminator architectures.  
   - Evaluation via Inception Score (9.5) and FID (0.08).  
   - Supports multi-domain datasets (e.g., MNIST, CelebA).  
+
